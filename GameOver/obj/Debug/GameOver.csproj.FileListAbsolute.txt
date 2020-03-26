@@ -1,0 +1,10 @@
+C:\Users\Светлана\source\repos\GameOver\bin\Debug\GameOver.exe.config
+C:\Users\Светлана\source\repos\GameOver\bin\Debug\GameOver.exe
+C:\Users\Светлана\source\repos\GameOver\bin\Debug\GameOver.pdb
+C:\Users\Светлана\source\repos\GameOver\obj\Debug\GameOver.csprojAssemblyReference.cache
+C:\Users\Светлана\source\repos\GameOver\obj\Debug\GameOver.Properties.Resources.resources
+C:\Users\Светлана\source\repos\GameOver\obj\Debug\GameOver.csproj.GenerateResource.cache
+C:\Users\Светлана\source\repos\GameOver\obj\Debug\GameOver.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\source\repos\GameOver\obj\Debug\GameOver.exe
+C:\Users\Светлана\source\repos\GameOver\obj\Debug\GameOver.pdb
+C:\Users\Светлана\source\repos\GameOver\obj\Debug\GameOver.Form1.resources
